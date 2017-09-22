@@ -1,0 +1,72 @@
+body
+{
+    background-color: #1F2833;
+    
+}
+#header1 h1:hover
+{
+    color:cornflowerblue;
+}
+#header1 h1
+{
+    font-size: 30px;
+}
+
+#header1 h4:hover
+{
+    color:cornflowerblue;
+}
+#header1 h4
+{
+    font-size: 30px;
+}
+img
+{
+   display: block;
+    margin: auto;
+    padding: 0.5cm;
+}
+#header2 
+{
+    background-color: #BCBABE;
+    text-align: center;
+    font-family:Brush script std, Brush Script MT, cursive;
+}
+#header2 h1
+{
+    font-family:Brush script std, Brush Script MT, cursive;
+    font-style: oblique;
+    text-align: center;
+    color:azure; 
+    font-size: 25px;
+   
+}
+#header1 div 
+{
+    font-family:Brush script std, Brush Script MT, cursive;
+    font-style: oblique;
+    text-align: center;
+    color:azure;
+}
+#list
+{
+   vertical-align: middle;
+}
+#ar2
+{
+    background-color: #1F2833;
+    font-family:Times, serif;
+    font-style:normal;
+    color:azure;
+    text-align: center;
+}
+#rightside
+{
+    font-size: 20px;
+    float:right;
+}
+#leftside
+{
+    font-size: 20px;
+    float:left;
+}
